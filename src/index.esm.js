@@ -2146,7 +2146,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/zaigarfinance"
+        href: "https://t.me/ygdlnetworkofficial"
        /* items: [
            /* {
                 label: "English",
@@ -2205,7 +2205,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Zaigar3",
+        href: "https://twitter.com/ygdlnetworkofficial",
     },
 ];
 
